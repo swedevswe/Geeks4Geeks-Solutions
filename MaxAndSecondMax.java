@@ -38,7 +38,7 @@ class Solution{
 //{ Driver Code Starts.
 
 // Driver class
-class Array {
+class MaxAndSecondMax {
     
     // Driver code
 	public static void main (String[] args) throws IOException{
